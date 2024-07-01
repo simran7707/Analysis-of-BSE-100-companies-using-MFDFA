@@ -41,3 +41,6 @@ Our methodology initiates with the meticulous curation of a robust dataset, a fu
  
 •	Regression Modeling: 
 Our exploration delves into diverse regression models, each offering unique insights into stock price behaviors. Linear Regression, Decision Tree Regressor, and Random Forest are meticulously employed.  
+
+•	R-Squared (Coefficient of Determination): 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/d3ba3a64-cfa3-4f48-9ec5-edd7cfdee268)
