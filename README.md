@@ -93,5 +93,5 @@ Our methodology culminates in a holistic understanding of stock market dynamics,
 Fig. Flowchart showcasing methodology implemented 
 
 # Model Training and Evaluation
-![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/2765db4a-1de6-4aa0-9e43-9d149f3dbcf3)
+![Mind map (1)](https://github.com/simran7707/Analysis-of-BSE-100-companies-using-MFDFA/assets/92624625/a94267f4-1866-4a10-8f03-4421c1e8a742)
 Fig. Flowchart showing various Machine Learning models used in this project  
