@@ -44,7 +44,7 @@ Our exploration delves into diverse regression models, each offering unique insi
 
 
 •	R-Squared (Coefficient of Determination): 
-![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/d3ba3a64-cfa3-4f48-9ec5-edd7cfdee268)
+
 
   
 •	RMSE (Root Mean Squared Error): 
@@ -53,7 +53,6 @@ Our exploration delves into diverse regression models, each offering unique insi
 The efficacy of each model is evaluated using key metrics, including R-squared, RMSE, and MAE.  
  
 •	MAE (Mean Absolute Error): 
-![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/0dfcfae1-f2ab-48ec-a0ca-578ab09de8f0)
 
  
 The standout performer, LSTM, emerges as a key player with an impressive R-squared score of 0.9, showcasing its superior predictive accuracy. 
