@@ -76,6 +76,7 @@ Building on regression models, our methodology extends into multifractal analysi
   
  
 •	Generalized Hurst Exponent: 
+
 ![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/716b2b38-8bb3-4c51-9c45-a425f04924c1)
  
   
