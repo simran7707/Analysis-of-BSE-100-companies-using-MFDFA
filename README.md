@@ -1,0 +1,1 @@
+# Analysis-of-BSE-100-companies-using-MFDFA
