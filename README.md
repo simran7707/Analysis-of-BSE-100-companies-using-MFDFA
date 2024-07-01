@@ -42,5 +42,54 @@ Our methodology initiates with the meticulous curation of a robust dataset, a fu
 •	Regression Modeling: 
 Our exploration delves into diverse regression models, each offering unique insights into stock price behaviors. Linear Regression, Decision Tree Regressor, and Random Forest are meticulously employed.  
 
+
 •	R-Squared (Coefficient of Determination): 
-![image](https://github.com/simran7707/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/d3ba3a64-cfa3-4f48-9ec5-edd7cfdee268)
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/d3ba3a64-cfa3-4f48-9ec5-edd7cfdee268)
+
+  
+•	RMSE (Root Mean Squared Error): 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/b083021b-47ea-447b-93c8-644df8bd4557)
+
+The efficacy of each model is evaluated using key metrics, including R-squared, RMSE, and MAE.  
+ 
+•	MAE (Mean Absolute Error): 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/0dfcfae1-f2ab-48ec-a0ca-578ab09de8f0)
+
+ 
+The standout performer, LSTM, emerges as a key player with an impressive R-squared score of 0.9, showcasing its superior predictive accuracy. 
+ 
+•	Multifractal Analysis: 
+Building on regression models, our methodology extends into multifractal analysis. Log returns serve as a pivotal metric, unraveling the multifractal nature inherent in stock prices. We employ the Multifractal Detrended Fluctuation Algorithm (MFDFA) to identify self-similarity and fractionality across diverse stochastic time series with varying power scaling laws.  
+ 
+ 
+•	MFDFA (Multifractal Detrended Fluctuation Algorithm): 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/b25b15e2-c6ca-4646-962d-5d89fd2417f5)
+ 
+  
+ 
+ 
+•	Log Return: 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/a621f046-625c-4d2f-9c76-c2f1a50d8f39)
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/4be28767-2616-4ea9-a415-db79c9843b08)
+ 
+  
+ 
+•	Generalized Hurst Exponent: 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/716b2b38-8bb3-4c51-9c45-a425f04924c1)
+ 
+  
+Four essential graphs—Fluctuations Function vs. Time, Generalized Hurst Exponent vs. Fluctuations Function, Mass Exponent vs. Fluctuations Function, and Multifractal Spectrum—illuminate intricate patterns and behaviors within the financial time series. 
+ 
+•	Comparative Analysis: 
+To enrich our understanding, we draw parallels with existing research endeavors. A comparative analysis with renowned researchers in the field offers insights into the unique contributions and differentiators of our project. 
+ 
+ 
+Our methodology culminates in a holistic understanding of stock market dynamics, blending regression models and multifractal analysis. By adhering to rigorous data collection, advanced modeling, and in-depth analysis, our research aims to unravel the complexities inherent in stock price fluctuations, contributing valuable insights to the broader financial landscape. 
+ 
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/2db6eb98-aebe-4d76-8b76-219366b07e0a)
+  
+Fig. Flowchart showcasing methodology implemented 
+
+# Model Training and Evaluation
+![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/2765db4a-1de6-4aa0-9e43-9d149f3dbcf3)
+Fig. Flowchart showing various Machine Learning models used in this project  
