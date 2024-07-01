@@ -48,7 +48,7 @@ Our exploration delves into diverse regression models, each offering unique insi
 
   
 •	RMSE (Root Mean Squared Error): 
-![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/b083021b-47ea-447b-93c8-644df8bd4557)
+
 
 The efficacy of each model is evaluated using key metrics, including R-squared, RMSE, and MAE.  
  
