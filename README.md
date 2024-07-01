@@ -63,12 +63,14 @@ Building on regression models, our methodology extends into multifractal analysi
  
  
 •	MFDFA (Multifractal Detrended Fluctuation Algorithm): 
+
 ![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/b25b15e2-c6ca-4646-962d-5d89fd2417f5)
  
   
  
  
 •	Log Return: 
+
 ![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/a621f046-625c-4d2f-9c76-c2f1a50d8f39)
 ![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/4be28767-2616-4ea9-a415-db79c9843b08)
  
