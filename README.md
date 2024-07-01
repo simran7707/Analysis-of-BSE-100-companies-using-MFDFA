@@ -88,7 +88,8 @@ To enrich our understanding, we draw parallels with existing research endeavors.
  
 Our methodology culminates in a holistic understanding of stock market dynamics, blending regression models and multifractal analysis. By adhering to rigorous data collection, advanced modeling, and in-depth analysis, our research aims to unravel the complexities inherent in stock price fluctuations, contributing valuable insights to the broader financial landscape. 
  
-![image](https://github.com/Himanshu300703/Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-/assets/91286198/2db6eb98-aebe-4d76-8b76-219366b07e0a)
+![Mind map (1)](https://github.com/simran7707/Analysis-of-BSE-100-companies-using-MFDFA/assets/92624625/56c4d10f-690b-4ecf-85ca-9a7e9146f328)
+
   
 Fig. Flowchart showcasing methodology implemented 
 
